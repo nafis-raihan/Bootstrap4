@@ -29,10 +29,11 @@
     color: #0f0f0f;
 }
 
-.d-none{
-
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
 }
 
-.d-sm-block{
-    
+.navbar-dark{
+    background-color: #512DA8;
 }
